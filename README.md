@@ -1,0 +1,2 @@
+This project contains basic python programs created to practice fundamental programming concepts.The tasks focus on understanding Print formatting,Variables,operators,indexing,and simple Python operations.
+These exercises help build a strong foundation in python programming by practicing basic syntax and commonly used operators.Understanding these concepts is essential for writing efficient python programs and prepoaring for more Advanced topics.
